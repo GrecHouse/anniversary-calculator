@@ -4,7 +4,7 @@ PLATFORM = "sensor"
 
 SW_VERSION = '2.0.0'
 MANUFACT   = 'GrecHouse'
-MODEL = '기념일 D-Day'
+MODEL = '기념일 계산기'
 ATTRIBUTION = 'Provided by GrecHouse'
 
 CONF_NAME = 'anniv_name'

@@ -6,7 +6,6 @@
 > 🔥 https://github.com/GrecHouse/anniversary 의 통합구성요소 버전입니다.\
 TTS 센서, 장보기 목록 등 일부 기능이 제거되었습니다. 이 기능이 필요하신 분은 기존 버전을 사용하시기 바랍니다.
 
-
 홈어시스턴트 커스텀 컴포넌트입니다.\
 기념일 D-Day를 센서로 알려줍니다.
 - 음력을 지원합니다.
@@ -14,10 +13,6 @@ TTS 센서, 장보기 목록 등 일부 기능이 제거되었습니다. 이 기
 - 다가올 기념일 날짜도 알려줍니다.
 - 기념일에서 현재 날짜까지의 일자 카운트도 알려줍니다.
 - [Lovelace UI 커스텀 카드](https://github.com/GrecHouse/anniversary-lovelace-card)를 이용할 수 있습니다.
-
-<br>
-<img src="https://user-images.githubusercontent.com/49514473/76294542-5d98e700-62f6-11ea-9860-7dfe9e69a632.png" width="500px" />
-<br>
 
 ## Version history
 | Version | Date        |               |
@@ -54,6 +49,13 @@ TTS 센서, 장보기 목록 등 일부 기능이 제거되었습니다. 이 기
 ### configuration
 - 설정 > 기기 및 서비스 > 통합구성요소 추가하기
 - `기념일` 등으로 검색해서 추가하세요.
+
+![Step1](images/anniv1.png)
+
+![Step2](images/anniv2.png)
+
+![Step3](images/anniv3.png)
+
 
 ### 기념일 종류
 - `생일` 을 선택할 경우 한국 나이 (Korean Age) 속성이 추가됩니다.
