@@ -1,10 +1,10 @@
 ![version](https://img.shields.io/badge/version-2.0-blue)
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
 
-# Anniversary Calculator Sensor for Home Assistant
+# 🎉 Anniversary Calculator Sensor for Home Assistant
 
 > 🔥 https://github.com/GrecHouse/anniversary 의 통합구성요소 버전입니다.\
-TTS 센서, 장보기 목록 등 일부 기능이 제거되었습니다. 이 기능이 필요하신 분은 기존 버전을 사용하시기 바랍니다.
+🔪 TTS 센서, 장보기 목록 등 일부 기능이 제거되었습니다. 이 기능이 필요하신 분은 기존 버전을 사용하시기 바랍니다.
 
 홈어시스턴트 커스텀 컴포넌트입니다.\
 기념일 D-Day를 센서로 알려줍니다.
